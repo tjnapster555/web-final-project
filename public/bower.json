@@ -1,0 +1,35 @@
+{
+  "name": "web final project",
+  "description": "web final project that will have",
+  "main": "index.php",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "web",
+    "final",
+    "project",
+    "web",
+    "project",
+    "final",
+    "project"
+  ],
+  "authors": [
+    "tariq sajid"
+  ],
+  "license": "1",
+  "homepage": "test.dev",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.0",
+    "angular-route": "^1.5.0",
+    "angular-cookies": "^1.5.0",
+    "bootstrap": "^3.3.6"
+  }
+}
